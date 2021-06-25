@@ -1,0 +1,15 @@
+*{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+        background-color: #d8c195;
+        background-image: linear-gradient(to bottom right, #d8c195 55%, #032c49);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        padding-bottom: 5rem;
+}
+
+
